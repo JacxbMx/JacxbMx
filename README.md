@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JacxbMx
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Unreal Engine 5 and Unity
-- 💞️ I’m looking to collaborate on Videogames
-- 📫 How to reach me jacobmx.contacto@gmail.com
+- Mexican Game Developer
+- Unity, UE5, Omniverse
+- VR,AR
+- How to reach me fernandojacobmoreno@gmail.com
+-Linkedin  https://www.linkedin.com/in/jacobmx/
 
 <!---
 JacxbMx/JacxbMx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
